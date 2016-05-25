@@ -9223,7 +9223,7 @@ button.close {
  */
 @font-face {
     font-family: FontAwesome;
-    src: url(../fonts/fontawesome-webfont.woff2%3Fv=4.4.0);
+    src: url(../fonts/fontawesome-webfont.woff?v=4.4.0);
     src: url(../fonts/fontawesome-webfont.woff2%3Fv=4.4.0) format("embedded-opentype"), url(fontawesome-webfont.woff2%3Fv=4.4.0) format("woff2"), url(fontawesome-webfont.woff2%3Fv=4.4.0) format("woff"), url(fontawesome-webfont.woff2%3Fv=4.4.0) format("truetype"), url(fontawesome-webfont.woff2%3Fv=4.4.0) format("svg");
     font-weight: 400;
     font-style: normal
@@ -9416,7 +9416,7 @@ button.close {
 }
 
 .fa-search:before {
-    content: ""
+    content: " 🔍 "
 }
 
 .fa-envelope-o:before {
@@ -9580,7 +9580,7 @@ button.close {
 }
 
 .fa-bookmark:before {
-    content: ""
+    content: "⭐️"
 }
 
 .fa-print:before {
@@ -9720,11 +9720,11 @@ button.close {
 }
 
 .fa-chevron-left:before {
-    content: ""
+    content: "《"
 }
 
 .fa-chevron-right:before {
-    content: ""
+    content: "》"
 }
 
 .fa-plus-circle:before {
@@ -9856,7 +9856,7 @@ button.close {
 }
 
 .fa-chevron-up:before {
-    content: ""
+    content: "⬆️"
 }
 
 .fa-chevron-down:before {
