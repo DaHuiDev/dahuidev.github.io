@@ -12359,8 +12359,8 @@ a:active, a:hover, a:link {
 
 .saya-header.headroom-header-not-top-desktop .logo a {
     display: block;
-    background-image: url(../images/sp_main.png);
-    background-image: -webkit-image-set(url(../images/sp_main.png) 1x, url(../images/sp_main@2x.png) 2x);
+    background-image: url(../images/sp_main@2x.jpg);
+    background-image: -webkit-image-set(url(../images/sp_main@2x.jpg) 1x, url(../images/sp_main@2x.jpg) 2x);
     -webkit-transition: all .3s;
     transition: all .3s;
     background-position: 0 -50px;
@@ -12370,7 +12370,7 @@ a:active, a:hover, a:link {
 
 @media (-webkit-min-device-pixel-ratio: 1.5),(min--moz-device-pixel-ratio: 1.5),(-o-min-device-pixel-ratio: 3 / 2),(min-device-pixel-ratio: 1.5) {
     .saya-header.headroom-header-not-top-desktop .logo a {
-        background-image: url(../images/sp_main@2x.png);
+        background-image: url(../images/sp_main@2x.jpg);
         background-size: 1000px auto
     }
 }
@@ -13099,8 +13099,8 @@ a:active, a:hover, a:link {
 }
 
 .logo a {
-    background-image: url(../images/sp_main.png);
-    background-image: -webkit-image-set(url(../images/sp_main.png) 1x, url(../images/sp_main@2x.png) 2x);
+    background-image: url(../images/sp_main@2x.jpg);
+    background-image: -webkit-image-set(url(../images/sp_main@2x.jpg) 1x, url(../images/sp_main@2x.jpg) 2x);
     -webkit-transition: all .3s;
     transition: all .3s;
     text-indent: -9999em;
@@ -13112,7 +13112,7 @@ a:active, a:hover, a:link {
 
 @media (-webkit-min-device-pixel-ratio: 1.5),(min--moz-device-pixel-ratio: 1.5),(-o-min-device-pixel-ratio: 3 / 2),(min-device-pixel-ratio: 1.5) {
     .logo a {
-        background-image: url(../images/sp_main@2x.png);
+        background-image: url(../images/sp_main@2x.jpg);
         background-size: 1000px auto
     }
 }
@@ -13292,8 +13292,8 @@ a:active, a:hover, a:link {
 
 .app-rating {
     display: block;
-    background-image: url(../images/sp_main.png);
-    background-image: -webkit-image-set(url(../images/sp_main.png) 1x, url(../images/sp_main@2x.png) 2x);
+    background-image: url(../images/sp_main@2x.jpg);
+    background-image: -webkit-image-set(url(../images/sp_main@2x.jpg) 1x, url(../images/sp_main@2x.jpg) 2x);
     width: 60px;
     height: 12px;
     background-position: -200px -100px
@@ -13301,22 +13301,22 @@ a:active, a:hover, a:link {
 
 @media (-webkit-min-device-pixel-ratio: 1.5),(min--moz-device-pixel-ratio: 1.5),(-o-min-device-pixel-ratio: 3 / 2),(min-device-pixel-ratio: 1.5) {
     .app-rating {
-        background-image: url(../images/sp_main@2x.png);
+        background-image: url(../images/sp_main@2x.jpg);
         background-size: 1000px auto
     }
 }
 
 .app-rating .rating-0-5, .app-rating .rating-1, .app-rating .rating-1-5, .app-rating .rating-2, .app-rating .rating-2-5, .app-rating .rating-3, .app-rating .rating-3-5, .app-rating .rating-4, .app-rating .rating-4-5, .app-rating .rating-5 {
     display: block;
-    background-image: url(../images/sp_main.png);
-    background-image: -webkit-image-set(url(../images/sp_main.png) 1x, url(../images/sp_main@2x.png) 2x);
+    background-image: url(../images/sp_main@2x.jpg);
+    background-image: -webkit-image-set(url(../images/sp_main@2x.jpg) 1x, url(../images/sp_main@2x.jpg) 2x);
     background-position: -200px -120px;
     height: 12px
 }
 
 @media (-webkit-min-device-pixel-ratio: 1.5),(min--moz-device-pixel-ratio: 1.5),(-o-min-device-pixel-ratio: 3 / 2),(min-device-pixel-ratio: 1.5) {
     .app-rating .rating-0-5, .app-rating .rating-1, .app-rating .rating-1-5, .app-rating .rating-2, .app-rating .rating-2-5, .app-rating .rating-3, .app-rating .rating-3-5, .app-rating .rating-4, .app-rating .rating-4-5, .app-rating .rating-5 {
-        background-image: url(../images/sp_main@2x.png);
+        background-image: url(../images/sp_main@2x.jpg);
         background-size: 1000px auto
     }
 }
@@ -13363,8 +13363,8 @@ a:active, a:hover, a:link {
 
 .app-platform-icon .android, .app-platform-icon .apple, .app-platform-icon .coolapk, .app-platform-icon .google, .app-platform-icon .ios, .app-platform-icon .ios-universal, .app-platform-icon .ipad, .app-platform-icon .iphone, .app-platform-icon .mac, .app-platform-icon .wandoujia, .app-platform-icon .windows, .app-platform-icon .windows-phone, .app-platform-icon-mini .android, .app-platform-icon-mini .apple, .app-platform-icon-mini .coolapk, .app-platform-icon-mini .google, .app-platform-icon-mini .ios, .app-platform-icon-mini .ios-universal, .app-platform-icon-mini .ipad, .app-platform-icon-mini .iphone, .app-platform-icon-mini .mac, .app-platform-icon-mini .wandoujia, .app-platform-icon-mini .windows, .app-platform-icon-mini .windows-phone {
     display: block;
-    background-image: url(../images/sp_main.png);
-    background-image: -webkit-image-set(url(../images/sp_main.png) 1x, url(../images/sp_main@2x.png) 2x);
+    background-image: url(../images/sp_main@2x.jpg);
+    background-image: -webkit-image-set(url(../images/sp_main@2x.jpg) 1x, url(../images/sp_main@2x.jpg) 2x);
     width: 135px;
     height: 40px;
     text-indent: -9999em
@@ -13372,7 +13372,7 @@ a:active, a:hover, a:link {
 
 @media (-webkit-min-device-pixel-ratio: 1.5),(min--moz-device-pixel-ratio: 1.5),(-o-min-device-pixel-ratio: 3 / 2),(min-device-pixel-ratio: 1.5) {
     .app-platform-icon .android, .app-platform-icon .apple, .app-platform-icon .coolapk, .app-platform-icon .google, .app-platform-icon .ios, .app-platform-icon .ios-universal, .app-platform-icon .ipad, .app-platform-icon .iphone, .app-platform-icon .mac, .app-platform-icon .wandoujia, .app-platform-icon .windows, .app-platform-icon .windows-phone, .app-platform-icon-mini .android, .app-platform-icon-mini .apple, .app-platform-icon-mini .coolapk, .app-platform-icon-mini .google, .app-platform-icon-mini .ios, .app-platform-icon-mini .ios-universal, .app-platform-icon-mini .ipad, .app-platform-icon-mini .iphone, .app-platform-icon-mini .mac, .app-platform-icon-mini .wandoujia, .app-platform-icon-mini .windows, .app-platform-icon-mini .windows-phone {
-        background-image: url(../images/sp_main@2x.png);
+        background-image: url(../images/sp_main@2x.jpg);
         background-size: 1000px auto
     }
 }
@@ -18424,8 +18424,8 @@ div[contenteditable=true] img {
 
 .katana-user .col-full-header .logo a {
     display: block;
-    background-image: url(../images/sp_main.png);
-    background-image: -webkit-image-set(url(../images/sp_main.png) 1x, url(../images/sp_main@2x.png) 2x);
+    background-image: url(../images/sp_main@2x.jpg);
+    background-image: -webkit-image-set(url(../images/sp_main@2x.jpg) 1x, url(../images/sp_main@2x.jpg) 2x);
     text-indent: -9999em;
     background-position: 0 -50px;
     width: 33px;
@@ -18434,7 +18434,7 @@ div[contenteditable=true] img {
 
 @media (-webkit-min-device-pixel-ratio: 1.5),(min--moz-device-pixel-ratio: 1.5),(-o-min-device-pixel-ratio: 3 / 2),(min-device-pixel-ratio: 1.5) {
     .katana-user .col-full-header .logo a {
-        background-image: url(../images/sp_main@2x.png);
+        background-image: url(../images/sp_main@2x.jpg);
         background-size: 1000px auto
     }
 }
