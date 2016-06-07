@@ -12317,7 +12317,8 @@ a:active, a:hover, a:link {
     .saya-header {
         width: 100%;
         height: auto;
-        border-top: 3px solid #f22a22;
+        /*border-top: 3px solid #f22a22;*/
+        border-top: 3px solid #190303;
         border-bottom: none;
         box-shadow: 0 1px 3px rgba(0, 0, 0, .1)
     }
@@ -12333,7 +12334,8 @@ a:active, a:hover, a:link {
     height: 10px;
     border-radius: 50%;
     color: #fff;
-    background-color: #f22a22;
+    /*background-color: #f22a22;*/
+    background-color: #190706;
     right: 18px;
     top: -1px
 }
@@ -12718,7 +12720,8 @@ a:active, a:hover, a:link {
 }
 
 .saya-header .header-desktop .menu .item > a:hover {
-    background-color: #f22a22;
+    /*background-color: #f22a22;*/
+    background-color: #410f0e;
     color: #fff
 }
 
